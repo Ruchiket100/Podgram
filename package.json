@@ -1,0 +1,15 @@
+{
+  "name": "podgram",
+  "version": "1.0.0",
+  "description": "The way to share your Favourite podcast with world",
+  "main": "no",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruchiket100",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
